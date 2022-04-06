@@ -1,0 +1,19 @@
+id,title,price
+INTEGER,CHAR,DOUBLE
+8,Sweet water,50.0
+9,Orange Juice,100.0
+10,Banana Juice,120.0
+11,Coca Cola,60.0
+15,big potato,89.0
+16,ukrainian potato,88.99
+20,Pink tomato,55.55
+28,small carp,50.0
+29,Orange Juice,100.0
+30,Banana Juice,120.0
+31,Coca Cola,60.0
+35,big potato,89.0
+36,ukrainian potato,88.99
+40,Pink tomato,55.55
+44,african banana,89.0
+45,italian orange,88.99
+46,greece orange,32.0
