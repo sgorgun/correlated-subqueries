@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace CorrelatedSubqueries.Tests.AutocodeDB.Models
+namespace AutocodeDB.Models
 {
     public class SelectResult
     {
